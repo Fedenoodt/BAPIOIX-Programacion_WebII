@@ -19,8 +19,6 @@ Abrir la pagina web en:
 
 Etapa 1:
 
-Font-Family: Playfair-display
-    poppins
  investigar el ancho , largo, color y demas caracteristicas de:
  
  About, Contact, classic, facebook, instagram, twitter, lupa, barra negra,
@@ -60,3 +58,28 @@ numerados en la etapa 1. Se puede armar en donbosco.ga o en donde se sientan mas
 
 Entrega: 
   Los archivos html y css necesarios.
+
+_______________________________________________________________________
+
+Home
+    color: #b5b5b5
+    fuente: poppins
+    vertical-align: middle
+    font-size: 16px !important;
+    font-weight: 600 !important;
+
+Igual que Life, Family, Travel, e Inspirational.
+
+About Us y Contact
+    color: #111
+    Fuentes y tamaños iguales que arriba
+
+Classic
+    color: #222
+    fuente: Playfair Display
+    font-size: 46px
+    ES UN TITULO
+
+Facebook, Twitter e instagram
+    color: #000000
+    fuente: 'newspaper'
