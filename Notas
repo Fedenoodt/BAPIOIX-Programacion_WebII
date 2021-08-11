@@ -1,0 +1,62 @@
+    -Clase #1: 10-08-2021_Martes:
+
+Hoy se empezó mencionando temas importantes, como es el web hosting, o los servidores, dos temas muy interesantes.
+Los port, que yo tenia dudas, es para hacer "canales" para transmitir distintos tipos de datos.
+Después nos charló sobre el tema de los dominios.
+
+Vamos a freenom para hacer el nombre de dominio, enviarle un mail al profe con el mismo, y el da lugar para que los alumnos de segundo año, hagan un host con mail/nombre y contraseña, para que nosotros hagamos los trabajos.
+
+Freenom: "https://www.freenom.com/es/index.html"
+
+El profe dejó un trabajo...
+
+Trabajo practico nro 1
+
+
+Abrir la pagina web en:
+  https://demo.tagdiv.com/newspaper_classic_pro/2019/09/10/td-post-making-family-out-of-friends/#
+
+
+Etapa 1:
+
+Font-Family: Playfair-display
+    poppins
+ investigar el ancho , largo, color y demas caracteristicas de:
+ 
+ About, Contact, classic, facebook, instagram, twitter, lupa, barra negra,
+ Home, Life, Family, Travel, Inspirational
+ 
+Entrega: 
+  Construir un archivo de texto, con las caracteristicas de cada uno de los elementos hmtl previos.
+
+
+
+Etapa 2:
+
+Usamos los siguientes valores de T
+
+Etapa 2:
+
+Usamos los siguientes valores de Top y left con un ancho del body de 830px
+
+
+valores de top 
+  about 50,  barra negra 112,  classic 40,  twitter 48,  home 137
+
+valores de left
+ about 20, contact 82, classic 350, twirrer 750, lupa 780, instagram 715,
+ facebok 680, inspirational 540, travel 440, family 335, life 255, home 174
+
+objetos html a usar 
+  div,  p,  img
+
+Estilos a usar 
+ position, width, height, left, top, backgroundcolor, fontfamily, fontsize
+
+
+
+Armar la pagina con los elemen
+numerados en la etapa 1. Se puede armar en donbosco.ga o en donde se sientan mas comodos.
+
+Entrega: 
+  Los archivos html y css necesarios.
