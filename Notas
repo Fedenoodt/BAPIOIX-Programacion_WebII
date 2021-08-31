@@ -1,4 +1,4 @@
-    -Clase #1: 10-08-2021_Martes:
+  -Clase #1: 10-08-2021_Martes:
 
 Hoy se empezó mencionando temas importantes, como es el web hosting, o los servidores, dos temas muy interesantes.
 Los port, que yo tenia dudas, es para hacer "canales" para transmitir distintos tipos de datos.
@@ -83,3 +83,42 @@ Classic
 Facebook, Twitter e instagram
     color: #000000
     fuente: 'newspaper'
+    tamaño:
+
+
+
+  -Clase #2: 17-08-2021_Martes:
+
+Clase Perdida
+
+  -Clase #4: 24-08-2021_Martes:
+
+Hoy fue una clase muy aleatoria, estuve festejando el cumpleaños de Sole, y por lo que pude escuchar, se estuvo ordenando todo el asunto de los dominios, y trabajaron un poco.
+
+  -Clase #5: 31-08-2021_Martes:
+
+Hoy, Nico nos ayudó a ver que es lo que está pasando:
+
+"de la página que teníamos de referencia ( https://demo.tagdiv.com/newspaper_classic_pro/ )
+Teníamos que poder identificar los atributos de cada zona (por ejemplo, donde está ubicada cada cosa, su tamaño, color, etc)
+
+con esos datos, teníamos que crear cinco archivos html donde cada uno representaba una "sección" de la pag (Las secciones serían 
+Home, Travel, Life, etc, que son las que aparecen ahí) Las únicas dos diferencias que van a tener esos 5 html entre sí es que, 
+por ejemplo, el html "Home" va a tener la palabra home mas clara (el color es el que tomamos de referencia en el primer punto), 
+y abajo va a tener una imagen random (igual si querés podés usar las que aparecen en la pag).
+
+Cada html va a tener su sección mas clarita y una imagen. el resto todo EXACTAMENTE IGUAL.
+
+Para qué? Para que cuando veas los 5 html "parezca" que solo cambia el color de la seccion y las fotos como si pasaras el mouse 
+por encima de las mismas. (por las dudas aclaro que las imagenes tienen que tener exactamente las mismas medidas)
+
+Una vez que tengas eso, tenés que lograr que las secciones, cuando las clickees, se redireccione a la que clickeas
+
+pd: si no entendes algo decime, no puedo mandar audio porque estoy con la clase
+
+pero para que te des una idea, y si necesitas una mano copiando atributos, te paso lo que hice yo"
+
+Después de agradecerle la dedicación de explicarme, el profe aclaró que el tema de aprender a hacer isologos con letras, lo delegó a cada uno de nosotros, y nos mostró como se 
+puede cambiar el texto de una página (desde lo visual) para que halla letras con isologo.
+
+METADATA: El triángulo del menú desplegable, está en sans-serif, esa fuente.
