@@ -137,3 +137,15 @@ Usualmente son ejecutadas por objetos, personas, u objetos
 controlados por personas.
 
 El segundo práctico, lo que pide es desarrollar funciones "Inteligentes" con JavaScript en los 5 HTML realizados, y que en la página figuren esos cambios.
+
+--Lapso de las vacaciones de Primavera: Clases 7 a 9.--
+
+  -Clase #10: 12-10-2021_Martes:
+
+Hoy estuvimos revisando la situación. Y nos paramos en resolver primero el TP 1.
+Esa es la consigna que nos dió, y el próximo Viernes, va a dar una clase de Soporte a segundo año, en...
+
+(No title)
+Tuesday, October 12 · 5:30 – 7:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/idz-gmot-ada
