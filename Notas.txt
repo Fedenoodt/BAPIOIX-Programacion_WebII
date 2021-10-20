@@ -149,3 +149,20 @@ Esa es la consigna que nos dió, y el próximo Viernes, va a dar una clase de So
 Tuesday, October 12 · 5:30 – 7:30pm
 Google Meet joining info
 Video call link: https://meet.google.com/idz-gmot-ada
+
+  -Clase #11: 19-10-2021_Martes:
+
+El Profesor nos envió un archivo, para que analizemos que pasa en cada uno de los casos. 
+Al final de ese analisis, abrir estos en un editor ASCII e intentar entender como funcionan 
+cada una de las sentencias de JavaScript.
+
+  1.- recibir correo
+  2.- descompactar
+  3.- ejecutar en chrome cada uno de los archivos html 
+  4.- tomar nota de que ocurre, y en que orden en cada archivos
+  5.- abrir los archivos con un editor ascii, y intentar entender como funciona cada una de las sentencias javascript porque 
+  6.- escribir las conclusiones  
+
+  El Iframe sirve para meter páginas web dentro de otras.
+
+  Las formas del caso 1 y 4 son útiles para hacer el TP 2
