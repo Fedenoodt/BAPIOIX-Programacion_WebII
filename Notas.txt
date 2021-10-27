@@ -176,3 +176,12 @@ El profe pidió hacer drag an drop de un elemento de internet, y capturar una im
 Con respecto a este anuncio muiltimateria, si y solo si se resuelve esto bien, el Lunes se condecora con una licencia justificada.
 
 HORA DE MOVERSE.
+
+Dato de color. JavaScript es un lenguaje creado para que sea simple, y con solo dos o tres reglas se pueda manejar.
+
+Para mover un elemento, se usa la funcion "elemento".draggable, en True, y si usas .ondragover=function(ev)
+                                                                                   (ev){ev.preventDefault()} lográs que el elemento se mueva.
+
+Las diferencias entre un drag y un draggstart es que en ondraggstart se pone al final el ID del elemento.
+
+El profe nos va a pasar un correo con todo esto, cuando esté, lo pego acá.
