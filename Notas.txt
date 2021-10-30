@@ -185,3 +185,5 @@ Para mover un elemento, se usa la funcion "elemento".draggable, en True, y si us
 Las diferencias entre un drag y un draggstart es que en ondraggstart se pone al final el ID del elemento.
 
 El profe nos va a pasar un correo con todo esto, cuando esté, lo pego acá.
+
+  -Clase de apoyo 29-10-2021_Viernes:

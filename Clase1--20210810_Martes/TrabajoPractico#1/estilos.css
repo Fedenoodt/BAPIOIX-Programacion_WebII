@@ -1,4 +1,10 @@
 body {
     width: 830px;
-    background-color: black;
-}
+    background-color: #f7f8f8;
+};
+
+.titulo {
+    color: #222;
+    font-family: Playfair Display;
+    font-size: 46px;
+};
