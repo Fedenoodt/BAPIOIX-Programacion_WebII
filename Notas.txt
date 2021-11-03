@@ -187,3 +187,17 @@ Las diferencias entre un drag y un draggstart es que en ondraggstart se pone al 
 El profe nos va a pasar un correo con todo esto, cuando esté, lo pego acá.
 
   -Clase de apoyo 29-10-2021_Viernes:
+
+El profe marcó que le haga el TP 1 para el próximo martes.
+
+  -Clase #13: 02-11-2021_Martes:
+El profesor enunció los trabajos 3 y 4.
+
+/home/pwuno/noodt/tp01
+/home/pwuno/noodt/tp02
+45.61.49.213
+
+pwuno/donbosco
+
+Es mi nueva dirección en el FileZilla.
+El profe pidió que le suba los archivos ahí, del Tp 1 en adelante.
