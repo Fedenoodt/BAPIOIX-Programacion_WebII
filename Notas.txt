@@ -201,3 +201,7 @@ pwuno/donbosco
 
 Es mi nueva dirección en el FileZilla.
 El profe pidió que le suba los archivos ahí, del Tp 1 en adelante.
+
+  -Clase #14: 09-10-2021_Martes:
+El desafío de hoy es llevar la webcam en directo a una página, el profe nos va a explicar como hacerlo.
+Eso va a ser el último TP. Hay que apurarse.

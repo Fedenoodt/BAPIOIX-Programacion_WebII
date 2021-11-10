@@ -9,6 +9,7 @@ body {
     padding-right: 24px;
 }
 
+<<<<<<< HEAD
 h1 {
     color: #222;
     font-weight: lighter;
@@ -19,17 +20,31 @@ h1 {
 };
 
 .top {
+=======
+.h1 {
+    color: black;
+    font-family:  'Playfair Display', serif;
+    font-size: 46px;
+};
+
+.about {
+>>>>>>> bfc82f68cb1bb92099c423ba57c8bc95d2ff6877
     display: inline-block;
 }
 
 .barraNegra {
     position: fixed;
     color: #f7f8f8;
+<<<<<<< HEAD
     height: 80px;
+=======
+    height: 50px;
+>>>>>>> bfc82f68cb1bb92099c423ba57c8bc95d2ff6877
     width: 100%;
     padding-right: 0px;
     padding-left: 0px;
     background-color: black;
+<<<<<<< HEAD
     font-family: 'Poppins', sans-serif;
     font-size: 16px !important;
     font-weight: 600 !important;
@@ -91,3 +106,17 @@ a:hover {
     left: 90px;
     
 }
+=======
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+
+.hipervinculos {
+    display: inline-block;
+    font-family: 'Poppins';
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+>>>>>>> bfc82f68cb1bb92099c423ba57c8bc95d2ff6877
