@@ -205,3 +205,8 @@ El profe pidió que le suba los archivos ahí, del Tp 1 en adelante.
   -Clase #14: 09-10-2021_Martes:
 El desafío de hoy es llevar la webcam en directo a una página, el profe nos va a explicar como hacerlo.
 Eso va a ser el último TP. Hay que apurarse.
+
+  -Clase #15: 10-11-2021_Miercoles:
+
+Hoy empezó la clase con el profe revisando los códigos de las API's, nos pasó una conferencia de EuroPython Conference, video de Youtube que se llama "Tiago Montes - Don't do this at work".
+Después proseguimos estudiando distintos tipos de código ajeno.
