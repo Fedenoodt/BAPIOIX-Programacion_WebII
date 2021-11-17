@@ -206,7 +206,12 @@ El profe pidió que le suba los archivos ahí, del Tp 1 en adelante.
 El desafío de hoy es llevar la webcam en directo a una página, el profe nos va a explicar como hacerlo.
 Eso va a ser el último TP. Hay que apurarse.
 
-  -Clase #15: 10-11-2021_Miercoles:
 
-Hoy empezó la clase con el profe revisando los códigos de las API's, nos pasó una conferencia de EuroPython Conference, video de Youtube que se llama "Tiago Montes - Don't do this at work".
-Después proseguimos estudiando distintos tipos de código ajeno.
+  -Clase #16: 16-10-2021_Martes:
+
+El día consistió en darle miradas a el trabajo del Tetris.
+Este viernes a las 17 va a dar prioriadad a las clases de apoyo.
+Nuestra misión es llegar a ese Viernes, acomodandonos en el segundo
+trabajo, como para tener bases de charla de el mismo. Vos lo que podés
+hacer es tomar lo que creés que tenés que usar en la web de lo del CSS,
+ponerlo, y experimentar.

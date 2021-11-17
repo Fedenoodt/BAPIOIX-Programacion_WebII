@@ -7,7 +7,6 @@ Facebook
 Facebook
 </a></div>
 
-
 Instagram
 
 <div class="tdm-social-item-wrap">
@@ -18,7 +17,6 @@ Instagram
 Instagram
 </a></div>
 
-
 Twitter
 
 <div class="tdm-social-item-wrap">
@@ -27,6 +25,34 @@ Twitter
 </i></a><a href="#" class="tdm-social-text">
 Twitter
 </a></div>
+
+CSS de Facebook, Instagram, y Twitter
+
+.tdm-social-item-wrap {
+  display: inline-block;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.tdi_21 .td_block_wrap {
+  text-align: left;
+}
+
+body {
+    font-family: Verdana,BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
 
 (Los tres elementos anteriores están englobados en un div superior).
 
@@ -634,3 +660,6 @@ margin-left:5px !important;
 				}
 }
 </style><div class="tdb-block-inner td-fix-index"><div class="tdb-drop-down-search" aria-labelledby="td-header-search-button" style="width: 1093px !important;"><div class="tdb-drop-down-search-inner"><form method="get" class="tdb-search-form" action="https://demo.tagdiv.com/newspaper_classic_pro/"><div class="tdb-search-form-inner"><input class="tdb-head-search-form-input" type="text" value="" name="s" autocomplete="off"><div class="tdb-head-search-placeholder">Enter your search query...</div><button class="wpb_button wpb_btn-inverse btn tdb-head-search-form-btn" type="submit"><i class="tdb-head-search-form-btn-icon td-icon-search"></i></button></div></form><div class="tdb-aj-search"></div></div></div><a href="#" role="button" aria-label="Search" class="tdb-head-search-btn dropdown-toggle" data-toggle="dropdown"><span class="tdb-search-icon tdb-search-icon-svg"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path d="M833.925 717.782c-16.323 24.412-35.236 47.442-56.535 68.741-21.289 21.289-44.319 40.141-68.772 56.545l155.935 155.976 125.338-125.348-155.965-155.914zM705.034 192.275c144.2 144.138 144.2 377.784 0 521.902-144.067 144.118-377.713 144.118-521.851 0s-144.138-377.774 0-521.902c144.138-144.097 377.743-144.097 521.851 0z"></path></svg></span></a></div></div>
+
+CSS de la Busqueda
+
